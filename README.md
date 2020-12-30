@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<iframe src="test"></iframe>
+- [活动](https://johnhax.net/events)
+- [知乎](https://www.zhihu.com/people/he-shi-jun)
+
 <!--
 **hax/hax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
